@@ -1,0 +1,30 @@
+_repo: The-escape-of-Alice-A-Christmas-fantasy_69601
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Starrett, Vincent
+    birthdate: 1886
+    deathdate: 1974
+    gutenberg_agent_id: '37727'
+    url: http://www.gutenberg.org/2009/agents/37727
+    wikipedia: http://en.wikipedia.org/wiki/Vincent_Starrett
+description: ''
+gutenberg_issued: '2022-12-22'
+identifiers:
+  gutenberg: '69601'
+language: en
+pgterms:marc904: https://archive.org/details/escapeofalicechr00star/page/n11/mode/2up
+pgterms:marc905: 20211212144317starrett
+pgterms:marc906: '1919'
+pgterms:marc907: US
+production_note: Charlene Taylor, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Torch Press,1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The escape of Alice: A Christmas fantasy'
+url: http://www.gutenberg.org/ebooks/69601
