@@ -1,5 +1,8 @@
 _repo: The-escape-of-Alice-A-Christmas-fantasy_69601
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69601-h/images/cover.jpg
 creator:
   author:
     agent_name: Starrett, Vincent
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37727
     wikipedia: http://en.wikipedia.org/wiki/Vincent_Starrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69601#The-escape-of-Alice-A-Christmas-fantasy
 gutenberg_issued: '2022-12-22'
 identifiers:
   gutenberg: '69601'
